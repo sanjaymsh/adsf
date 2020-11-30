@@ -18,6 +18,7 @@ matrix:
 branches:
   only:
     - "master"
+    - "ppc64le"
 
 cache: bundler
 
